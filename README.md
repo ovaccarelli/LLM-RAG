@@ -56,8 +56,8 @@ LLM-RAG/
 │   └── llm_rag_Open_Source_AI_Workshop_4.ipynb
 ├── data/
 │   ├── sample_pdf/        ← test PDF(s) for extraction
-│   └── vectorstores/       ← saved FAISS indices
-├── README.md             ← this file
+│   └── vectorstores/      ← saved FAISS indices
+└── README.md              ← this file
 
 All notebooks are Colab-ready. Click the Colab badge at the top of any notebook to launch in Colab.
 
