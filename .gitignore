@@ -1,0 +1,5 @@
+# Ignore macOS Finder settings file
+.DS_Store
+
+# Ignore virtual env
+.venv
